@@ -9,3 +9,7 @@ realizar las siguientes queries:
 - mostrar el promedio de valor del ticket por avion 
 
 nombre desafío: queries_data
+
+[![1.png](https://i.postimg.cc/BbYVrjLD/1.png)](https://postimg.cc/Cn87DL4L)
+
+[![2.png](https://i.postimg.cc/2j2MbKc6/2.png)](https://postimg.cc/4nHBjBTk)
