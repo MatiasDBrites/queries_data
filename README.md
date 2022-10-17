@@ -5,8 +5,16 @@ desafío hoy:
 
 realizar las siguientes queries:
 - cuales son los 3 aeropuertos con más vuelos
+
+[![p1.png](https://i.postimg.cc/tCdp6dcJ/p1.png)](https://postimg.cc/RN0k5t4x)
+
 - cual es el aeropuerto con menos vuelos
+
+[![p2.png](https://i.postimg.cc/KzZMX7HH/p2.png)](https://postimg.cc/v1NBfnMr)
+
 - mostrar el promedio de valor del ticket por avion 
+
+[![p3.png](https://i.postimg.cc/9QQXj8mT/p3.png)](https://postimg.cc/nCNf41Qc)
 
 nombre desafío: queries_data
 
